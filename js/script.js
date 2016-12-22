@@ -1,0 +1,1 @@
+$('body').scrollspy({ target: '#dev-freddie-navbar-collapse' })
