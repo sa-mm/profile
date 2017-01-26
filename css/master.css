@@ -1,8 +1,22 @@
 body {
   position: relative;
-  padding-top: 40px;
+  padding-top: 35px;
+/*  background-color: grey;*/
 }
 
 :target {
 	padding-top: 30px;
 }
+
+/*#about {
+  background-color: #A3D2DF
+}
+
+#portfolio {
+  background-color: #C6F0D5
+}
+
+#contact {
+  background-color: #FFEEB2
+}
+*/
