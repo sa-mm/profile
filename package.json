@@ -1,0 +1,22 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "My Profile. Mostly Bootstrap.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa-mm/profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa-mm/profile/issues"
+  },
+  "homepage": "https://profile.mcmyler.com",
+  "devDependencies": {
+    "surge": "^0.18.0"
+  }
+}
